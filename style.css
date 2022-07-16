@@ -6,3 +6,7 @@
 .container_of_cards {
     padding: 128px;
 }
+
+body {
+    overflow-x: hidden;
+}
